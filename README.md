@@ -6,7 +6,7 @@ This is a simple Front end Todo List app that I built using React. The main reas
 <h2>How to use</h2>
 Simply type in a Todo list item that you want to add in the input field and press enter. Once you have entered all of your list items, you can 'check' them off by clicking on them. At the top, the number of todo list items you have will be displayed. To completed clear the list, simply press the 'clear' button.
 
-<img src="project5.png" />
+<img src="src/assets/project5.png" />
 
 <ul>
 <li>Technologies Used</li>
