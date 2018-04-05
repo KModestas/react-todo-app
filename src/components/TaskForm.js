@@ -4,7 +4,7 @@ const TaskForm = ({ handleChange, newTodo, handleSubmit }) => {
   return(
     <form onSubmit={handleSubmit}>
       <input
-        placeholder="What do you need to do?"
+        placeholder="I need to..."
         onChange={ handleChange }
         value={ newTodo }
       />
