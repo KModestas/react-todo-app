@@ -41,6 +41,7 @@ class App extends React.Component {
     // concat merges two array and returns a new array
     const todos = this.state.todos.concat(task);
     this.setState({ todos, newTodo: '' });
+    // resets in put field value
   }
 
   filterTodos() {
